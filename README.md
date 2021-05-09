@@ -10,7 +10,10 @@ This repo contains all the files and codes for Flight Delay Prediction Project. 
 * [5_Predicted_mean_weather_delay.ipynb](5_Predicted_mean_weather_delay.ipynb)
 
 ### Data
-
+* [Flight Data](data/flight)
+* [Airline Data](data/airline)
+* [Airport Data](data/airport)
+* [Weather Data](weather)
 
 ## Terms and Policies
 
